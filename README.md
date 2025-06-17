@@ -1,9 +1,10 @@
-# helloworld
+# AI Game
 
-AstrBot 插件模板
+AI Game —— 纯aigc开放世界游戏之尝试
 
-A template plugin for AstrBot plugin feature
+- 本插件基于 AstrBot 平台运行
+- 是一款线上多人游戏（错乱
 
 # 支持
 
-[帮助文档](https://astrbot.app)
+[Astrbot的帮助文档](https://astrbot.app)
